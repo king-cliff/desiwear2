@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "/https:/king-cliff.github.io/desiwear": {},
+    "/https:/king-cliff.github.io/desiwear/cart": {},
+    "/https:/king-cliff.github.io/desiwear/checkout": {},
+    "/https:/king-cliff.github.io/desiwear/list": {}
+  }
+}
